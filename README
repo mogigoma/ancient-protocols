@@ -1,0 +1,11 @@
+This project was written to help me learn about the C network calls.
+
+To compile the protocol daemons:
+
+	$ make
+
+To execute protocol daemon:
+
+	$ ./name-of-protocol
+
+Where 'name-of-protocol' is 'chargen', 'discard', or 'echo'.
